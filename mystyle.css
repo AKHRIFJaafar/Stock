@@ -1,0 +1,58 @@
+.text-black{
+    color:black !important
+}
+.btn-primary{
+    background-color: #3751FF !important;
+    border-color: #3751FF !important;
+}
+.col-2 div input:hover{
+    border-color: #3751FF;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator{
+    border-color: #3751FF;
+}
+input:hover:focus{
+    border-color: #3751FF;
+    color: #3751FF;
+}
+.custom-select:hover{
+    border-color: #3751FF;
+    color: #3751FF;
+}
+.custom-select:focus{
+border-color: #3751FF !important;
+}
+
+/* pointage style */
+.ouvrier {
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .ouvrier-success {
+    background: #5cb85c;
+    color: #fff;
+  }
+    .ouvrier-info {
+  background-color: #f2f2f2;
+  }
+
+  .profile {
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: white;
+      font-size: 20px;
+      color: black;
+      width: 40px;
+      height: 40px;
+      
+  }
+
+  /* sideBar  */
+
+  .margin-deconencte{
+      margin-top: 35vh;
+  }
